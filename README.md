@@ -1,1 +1,4 @@
-### Hi，欢迎你来到我的主页
+### Hi,这里是HUIB菌 👋
+
+
+![](https://raw.githubusercontent.com/DHDAXCW/DHDAXCW/output/github-snake.svg)
